@@ -14,7 +14,6 @@ function Posts() {
                 <h2>Post Title</h2>
                 <p>Description</p>
                 <button>Edit</button>
-                <button>Edit</button>
                 <button>Delete</button>
             </div>
         </div>
